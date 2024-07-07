@@ -1,7 +1,7 @@
 ### Hello! Welcome to my Github profile! 😄🔭
 
 My name is Jennifer. I've been working with IT for over 12 years. 
-Over the years, I've developed a solid foundation in software testing, now applying that knowledge to build efficient and scalable solutions in Java, Spring, and microservices architecture.
+Over the years, I've developed a solid foundation in software testing, now applying that knowledge to build efficient and scalable solutions, focusing on modern technologies and microservices architecture.
 
 Self-taught, curious, passionate about technology and challenges.
 Feel free to explore my projects and reach out if you have any collaboration opportunities or want to discuss Java, Spring or microservices.
