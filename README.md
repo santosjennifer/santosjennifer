@@ -1,16 +1,17 @@
 ### Hello! Welcome to my Github profile! 😄🔭
 
-My name is Jennifer. I've been working with IT for over 12 years. 
+My name is Jennifer. I've been working with IT for over 14 years. 
 Over the years, I've developed a solid foundation in software testing, now applying that knowledge to build efficient and scalable solutions, focusing on modern technologies and microservices architecture.
 
 Self-taught, curious, passionate about technology and challenges.
-Feel free to explore my projects and reach out if you have any collaboration opportunities or want to discuss Java, Spring or microservices.
+Feel free to explore my projects and reach out if you have any collaboration opportunities or want to discuss Java, Golang or microservices.
 
 Happy coding!🚀
 
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
+<img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" title="Go" alt="Go" /></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
